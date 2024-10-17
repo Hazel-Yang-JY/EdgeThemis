@@ -14,5 +14,6 @@ We have adapted and built upon the following models:
 
 1. [Pedestrian Trajectories Prediction with RNN](https://github.com/Oceanland-428/Pedestrian-Trajectories-Prediction-with-RNN.git)
 2. [Pytorch BERT SST2](https://github.com/awake020/pytorch_Bert_sst2.git)
+3. [CNN RNN MNIST CIFAR10](https://github.com/refloor/CNN-RNN-MNIST-CIFAR10-pytorch-).
 
 Please refer to these repositories for the original implementations and detailed descriptions of the models.
